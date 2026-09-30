@@ -74,19 +74,19 @@ GitHub| Project documentation and version control
                 ↓
      Analysis-Ready Dataset
                 ↓
-   Exploratory Data Analysis
+    Exploratory Data Analysis
                 ↓
         Revenue Analysis
                 ↓
         Seasonality Analysis
                 ↓
-   Product & Category Analysis
+    Product & Category Analysis
                 ↓
         Customer Analysis
                 ↓
         Business Insights
                 ↓
-Recommendations & Further Investigation
+    Recommendations & Further Investigation
 
 ---
 

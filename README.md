@@ -4,7 +4,7 @@
 
 ---
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes a retail sales dataset covering 2022–2025. The objective was to transform a raw, imperfect dataset into an analysis-ready dataset and use exploratory data analysis (EDA) to identify patterns in:
 
@@ -23,7 +23,7 @@ The analysis ultimately focuses on 2022–2024, because the available 2025 recor
 
 ---
 
-🎯 Business Questions
+**🎯 Business Questions**
 
 The analysis was designed to answer questions such as:
 
@@ -40,47 +40,52 @@ The analysis was designed to answer questions such as:
 
 ---
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
-Tool| Purpose
 Python| Data cleaning, transformation and analysis
+
 Pandas| Data manipulation, aggregation and statistical analysis
+
 NumPy| Numerical operations and data transformation
+
 Matplotlib| Data visualization
+
 Seaborn| Statistical visualization
+
 Jupyter Notebook| Interactive analysis environment
+
 GitHub| Project documentation and version control
 
+
+**🔄 Project Workflow**
+
 ---
-
-🔄 Project Workflow
-
-Raw Retail Dataset
-        ↓
-Data Inspection
-        ↓
-Data Quality Assessment
-        ↓
-Missing-Value Investigation
-        ↓
-Data Cleaning & Transformation
-        ↓
-Validation
-        ↓
-Analysis-Ready Dataset
-        ↓
-Exploratory Data Analysis
-        ↓
-Revenue Analysis
-        ↓
-Seasonality Analysis
-        ↓
-Product & Category Analysis
-        ↓
-Customer Analysis
-        ↓
-Business Insights
-        ↓
+        Raw Retail Dataset
+                ↓
+        Data Inspection
+                ↓
+      Data Quality Assessment
+                ↓
+     Missing-Value Investigation
+                ↓
+    Data Cleaning & Transformation
+                ↓
+            Validation
+                ↓
+     Analysis-Ready Dataset
+                ↓
+   Exploratory Data Analysis
+                ↓
+        Revenue Analysis
+                ↓
+        Seasonality Analysis
+                ↓
+   Product & Category Analysis
+                ↓
+        Customer Analysis
+                ↓
+        Business Insights
+                ↓
 Recommendations & Further Investigation
 
 ---

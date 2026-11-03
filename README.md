@@ -347,7 +347,7 @@ Based strictly on the patterns above, in priority order:
 - **No history before 2022.** New-vs-returning customers, churn and lifetime value can't be measured.
 - **No inventory or marketing data.** Stock-outs, launches and promotions can't be ruled in or out as causes.
 - **Short time series.** "Seasonality" rests on three annual cycles: strong, consistent, but not conclusive.
-- **Very uniform data.** The even customer activity, regular price grid and balanced categories are typical of simulated or practice datasets, so treat the *methods* as the transferable part.
+- **Very uniform data.** The even customer activity, regular price grid and balanced categories are typical of simulated or practice datasets.
 - **Unused columns.** `Payment Method` and `Location` (online vs in-store) were not analyzed.
 
 ---

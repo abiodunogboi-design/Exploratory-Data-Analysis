@@ -43,12 +43,11 @@
 7. [Business Questions Answered](#-business-questions-answered)
 8. [Recommendations](#-recommendations)
 9. [Limitations](#-limitations--honest-caveats)
-10. [Visualizations](#-visualizations)
-11. [How to Run](#-how-to-run)
-12. [Repository Structure](#-repository-structure)
-13. [Skills Demonstrated](#-skills-demonstrated)
-14. [Future Improvements](#-future-improvements)
-15. [About the Analyst](#-about-the-analyst)
+10. [How to Run](#-how-to-run)
+11. [Repository Structure](#-repository-structure)
+12. [Skills Demonstrated](#-skills-demonstrated)
+13. [Future Improvements](#-future-improvements)
+14. [About the Analyst](#-about-the-analyst)
 
 ---
 
@@ -295,6 +294,9 @@ The category with the most **revenue** (Butchers) is not the one with the most *
 > 💡 **Data pattern:** the item number encodes the price tier (`price = $5 + $1.50 × (n − 1)`), so `Item_25_*` is always $41.00 and `Item_1_*` always $5.00.
 
 ### 6. Customers: evenly spread, fully static
+
+<img width="643" height="325" alt="Screenshot 2026-11-04 073909" src="https://github.com/user-attachments/assets/5f176e9c-7c6d-4f1e-a301-eb0729d3cbfb" />
+
 
 | Metric | Result |
 |---|---|

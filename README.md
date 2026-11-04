@@ -359,10 +359,6 @@ Based strictly on the patterns above, in priority order:
 ---
 
 
-**Orders per customer**
-
-![Orders per customer](images/05_orders_per_customer.png)
-
 ---
 
 ## 🚀 How to Run

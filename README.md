@@ -223,6 +223,9 @@ for col, nd in [('Quantity', 1), ('Total Spent', 2)]:
 
 <img width="648" height="316" alt="Screenshot 2026-11-04 073756" src="https://github.com/user-attachments/assets/beb1835d-a01c-422e-86f8-a792f7f2d239" />
 
+<img width="645" height="317" alt="Screenshot 2026-11-04 073821" src="https://github.com/user-attachments/assets/7e103e13-6cb9-499d-85da-d4a38368df1e" />
+
+
 
 | Year | Dec (prior yr) | **Jan** | Feb | Jan → Feb | Jan orders | Feb orders |
 |---|---:|---:|---:|---:|---:|---:|

@@ -221,6 +221,9 @@ for col, nd in [('Quantity', 1), ('Total Spent', 2)]:
 
 ### 2. Seasonality: a repeating January peak
 
+<img width="648" height="316" alt="Screenshot 2026-11-04 073756" src="https://github.com/user-attachments/assets/beb1835d-a01c-422e-86f8-a792f7f2d239" />
+
+
 | Year | Dec (prior yr) | **Jan** | Feb | Jan → Feb | Jan orders | Feb orders |
 |---|---:|---:|---:|---:|---:|---:|
 | 2022 | n/a | **$55,748.76** | $45,840.50 | −17.8% | 389 | 329 |

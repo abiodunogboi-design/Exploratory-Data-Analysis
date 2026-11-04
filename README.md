@@ -358,12 +358,6 @@ Based strictly on the patterns above, in priority order:
 
 ---
 
-## 📈 Visualizations
-
-| | |
-|---|---|
-| **Monthly revenue by year**<br/>![Monthly revenue](images/01_monthly_revenue_by_year.png) | **Monthly order count by year**<br/>![Monthly orders](images/02_monthly_order_count.png) |
-| **Yearly revenue by category**<br/>![Category revenue](images/03_yearly_revenue_by_category.png) | **Revenue per customer**<br/>![Customer revenue](images/04_revenue_per_customer.png) |
 
 **Orders per customer**
 
